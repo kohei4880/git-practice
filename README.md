@@ -4,3 +4,4 @@
 rebase-practiceブランチで更新（rebase-practice用）
 rebase pull 用
 stash練習(2nd変更)
+log diff確認
